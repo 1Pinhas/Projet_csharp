@@ -1,0 +1,9 @@
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.csproj.AssemblyReference.cache
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.AssemblyInfoInputs.cache
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.AssemblyInfo.cs
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.csproj.CoreCompileInputs.cache
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.RazorAssemblyInfo.cache
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.RazorAssemblyInfo.cs
+C:\Users\X1 YOGA\Documents\Projet\ProjetCsharp\ProjetCsharp\obj\Debug\net8.0\ProjetCsharp.sourcelink.json

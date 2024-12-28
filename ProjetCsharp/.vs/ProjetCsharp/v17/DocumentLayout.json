@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\service\\icommandeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\service\\icommandeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\service\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\service\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\service\\impl\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\service\\impl\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\models\\rs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\models\\rs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\models\\produit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\models\\livreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\models\\livreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\models\\livraison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\models\\livraison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\models\\comptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\models\\comptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\models\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\models\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\controllers\\rscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\controllers\\rscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\controllers\\comptablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\controllers\\comptablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\service\\impl\\comptableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\service\\impl\\comptableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\service\\icomptableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\service\\icomptableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\service\\impl\\rsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\service\\impl\\rsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\service\\irsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\service\\irsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\service\\impl\\commandeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\service\\impl\\commandeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\x1 yoga\\documents\\projet\\projetcsharp\\projetcsharp\\projetcsharp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4E339CD8-C363-4271-A304-C23E26997CE3}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\projetcsharp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Livraison.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Livraison.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Models\\Livraison.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Livraison.cs",
+              "RelativeToolTip": "ProjetCsharp\\Models\\Livraison.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:18:24.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Livreur.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Livreur.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Models\\Livreur.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Livreur.cs",
+              "RelativeToolTip": "ProjetCsharp\\Models\\Livreur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:18:46.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produit.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Produit.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Models\\Produit.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Produit.cs",
+              "RelativeToolTip": "ProjetCsharp\\Models\\Produit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:17:43.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RS.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\RS.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Models\\RS.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\RS.cs",
+              "RelativeToolTip": "ProjetCsharp\\Models\\RS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:18:04.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\Impl\\ClientService.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Service\\Impl\\ClientService.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\Impl\\ClientService.cs",
+              "RelativeToolTip": "ProjetCsharp\\Service\\Impl\\ClientService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:21.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\IClientService.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Service\\IClientService.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\IClientService.cs",
+              "RelativeToolTip": "ProjetCsharp\\Service\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:10.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICommandeService.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\ICommandeService.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Service\\ICommandeService.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\ICommandeService.cs",
+              "RelativeToolTip": "ProjetCsharp\\Service\\ICommandeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:31:34.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProjetCsharp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:00:34.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Client.cs",
+              "RelativeToolTip": "ProjetCsharp\\Models\\Client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:50.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RSController.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Controllers\\RSController.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Controllers\\RSController.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Controllers\\RSController.cs",
+              "RelativeToolTip": "ProjetCsharp\\Controllers\\RSController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:20:20.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetCsharp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:00:19.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ProjetCsharp\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:36.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Program.cs",
+              "RelativeToolTip": "ProjetCsharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:23:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Commande.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Models\\Commande.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Commande.cs",
+              "RelativeToolTip": "ProjetCsharp\\Models\\Commande.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:16:18.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comptable.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Comptable.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Models\\Comptable.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Models\\Comptable.cs",
+              "RelativeToolTip": "ProjetCsharp\\Models\\Comptable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:17:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ComptableService.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\Impl\\ComptableService.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Service\\Impl\\ComptableService.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\Impl\\ComptableService.cs",
+              "RelativeToolTip": "ProjetCsharp\\Service\\Impl\\ComptableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:25.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IComptableService.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\IComptableService.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Service\\IComptableService.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\IComptableService.cs",
+              "RelativeToolTip": "ProjetCsharp\\Service\\IComptableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:32:28.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RsService.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\Impl\\RsService.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Service\\Impl\\RsService.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\Impl\\RsService.cs",
+              "RelativeToolTip": "ProjetCsharp\\Service\\Impl\\RsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:29.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComptableController.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Controllers\\ComptableController.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Controllers\\ComptableController.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Controllers\\ComptableController.cs",
+              "RelativeToolTip": "ProjetCsharp\\Controllers\\ComptableController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:38.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRsService.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\IRsService.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Service\\IRsService.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\IRsService.cs",
+              "RelativeToolTip": "ProjetCsharp\\Service\\IRsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:31:52.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjetCsharp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:42.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CommandeService.cs",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\Impl\\CommandeService.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Service\\Impl\\CommandeService.cs",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\Service\\Impl\\CommandeService.cs",
+              "RelativeToolTip": "ProjetCsharp\\Service\\Impl\\CommandeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:15:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjetCsharp",
+              "DocumentMoniker": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\ProjetCsharp.csproj",
+              "RelativeDocumentMoniker": "ProjetCsharp\\ProjetCsharp.csproj",
+              "ToolTip": "C:\\Users\\X1 YOGA\\Documents\\Projet\\ProjetCsharp\\ProjetCsharp\\ProjetCsharp.csproj",
+              "RelativeToolTip": "ProjetCsharp\\ProjetCsharp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T09:16:04.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
